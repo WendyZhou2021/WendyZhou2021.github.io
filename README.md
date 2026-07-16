@@ -27,11 +27,11 @@ npx hexo new "文章标题"
 ## 部署到 Gitee Pages
 
 ```bash
-# 清理、生成并部署静态文件到 Gitee 仓库的 master 分支
+# 清理、生成并部署静态文件到 Gitee 仓库的 pages 分支
 npx hexo clean && npx hexo generate && npx hexo deploy
 ```
 
-部署完成后，前往 Gitee 仓库的「服务 → Gitee Pages」开启/更新即可。
+部署完成后，前往 Gitee 仓库的「服务 → Gitee Pages」，选择 `pages` 分支开启/更新即可。
 
 ## 目录说明
 
