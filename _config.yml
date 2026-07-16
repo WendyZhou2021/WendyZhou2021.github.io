@@ -103,4 +103,4 @@ theme: landscape
 deploy:
   type: git
   repo: git@gitee.com:wendi-zhou/myblog.git
-  branch: master
+  branch: pages
