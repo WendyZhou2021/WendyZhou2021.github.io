@@ -12,13 +12,13 @@ categories:
 
 这是一篇示例文章，恭喜你的博客已经成功搭建完成！🎉
 
-本博客基于 **Hexo** 构建，并部署在 **Gitee Pages** 上。
+本博客基于 **Hexo** 构建，并部署在 **GitHub Pages** 上。
 
 ### 功能特性
 
 - 📝 使用 Markdown 编写文章
 - 🎨 丰富的主题与插件生态
-- 🚀 一键部署到 Gitee Pages / GitHub Pages
+- 🚀 一键部署到 GitHub Pages
 - 🔍 支持分类、标签、归档
 
 ### 代码示例
